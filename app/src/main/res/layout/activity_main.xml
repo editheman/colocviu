@@ -21,14 +21,14 @@
             android:id="@+id/riddle"
             android:layout_width="290dp"
             android:layout_height="wrap_content"
-            android:text="riddle"/>
+            android:hint="riddle"/>
 
         <EditText
             android:id="@+id/answer"
             android:layout_width="290dp"
             android:layout_height="wrap_content"
             android:paddingTop="50dp"
-            android:text="answer"/>
+            android:hint="answer"/>
     </LinearLayout>
 
 </LinearLayout>
